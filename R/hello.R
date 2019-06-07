@@ -25,5 +25,4 @@ hello <- function() {
 temp <- read_csv("temp (1).csv")
 precip <- read_csv("precipitation (1).csv")
 
-use_data(temp, pkg=HW5)
-use_data(precip, pkg=HW5)
+
